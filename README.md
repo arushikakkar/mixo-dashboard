@@ -96,7 +96,7 @@ This project is optimized for deployment on Vercel:
 3. Add the environment variable `NEXT_PUBLIC_API_BASE_URL`
 4. Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
+[![Deploy with Vercel](https://mixo-dashboard-taupe.vercel.app/)
 
 ## Project Structure
 
