@@ -87,17 +87,6 @@ npm run build
 npm start
 ```
 
-## Deployment
-
-This project is optimized for deployment on Vercel:
-
-1. Push your code to GitHub
-2. Import the project in Vercel
-3. Add the environment variable `NEXT_PUBLIC_API_BASE_URL`
-4. Deploy
-
-[![Deploy with Vercel](https://mixo-dashboard-taupe.vercel.app/)
-
 ## Project Structure
 
 ```
